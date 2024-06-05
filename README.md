@@ -33,7 +33,7 @@ Welcome to the Pokédex! This website provides a collection and detailed descrip
 
 Simply open the `index.html` file in your web browser, and you'll have access to the complete Pokédex! Browse through all Pokémon, search for specific ones, and explore their details.
 
-##Sneak Peak🫣 
+## Sneak Peak🫣 
 ![image](https://github.com/Shivamgpt812/Pokedex/assets/144247614/1d7b64a0-a863-4e30-b318-191cc5e71efa)
 ![image](https://github.com/Shivamgpt812/Pokedex/assets/144247614/8f89508d-1d39-40b1-a2df-194755e6e34e)
 ![image](https://github.com/Shivamgpt812/Pokedex/assets/144247614/25327cef-a598-465c-87de-244535e61f6a)
